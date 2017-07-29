@@ -1,6 +1,6 @@
 include ../Makefile.inc
 
-UPSTREAM = https://github.com/ngircd/ngircd/archive/rel-22.1.tar.gz
+UPSTREAM = https://github.com/ngircd/ngircd/archive/rel-24.tar.gz
 
 NGIRCD_CONF_OPTS += \
 	--without-pam \

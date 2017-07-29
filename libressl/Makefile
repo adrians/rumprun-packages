@@ -1,6 +1,6 @@
 include ../Makefile.inc
 # ftp.openbsd.org doesn't support https.  ironic?
-UPSTREAM=http://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.4.2.tar.gz
+UPSTREAM=http://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.6.0.tar.gz
 TARBALL=$(notdir $(UPSTREAM))
 
 all: build/libressl

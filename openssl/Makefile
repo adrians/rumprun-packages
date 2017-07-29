@@ -1,5 +1,5 @@
 include ../Makefile.inc
-UPSTREAM=http://www.openssl.org/source/openssl-1.0.1t.tar.gz
+UPSTREAM=http://www.openssl.org/source/openssl-1.0.2l.tar.gz
 TARBALL=$(notdir $(UPSTREAM))
 
 # BSD-generic64, BSD-x86, BSD-generic32 or something else?

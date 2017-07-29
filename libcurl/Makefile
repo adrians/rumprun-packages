@@ -1,5 +1,5 @@
 include ../Makefile.inc
-UPSTREAM=http://curl.haxx.se/download/curl-7.46.0.tar.gz
+UPSTREAM=http://curl.haxx.se/download/curl-7.54.1.tar.gz
 TARBALL=$(notdir $(UPSTREAM))
 
 all: bin/libcurl
