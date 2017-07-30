@@ -1,6 +1,6 @@
 include ../Makefile.inc
 
-UPSTREAM=http://www.haproxy.org/download/1.6/src/haproxy-1.6.4.tar.gz
+UPSTREAM=http://www.haproxy.org/download/1.7/src/haproxy-1.7.8.tar.gz
 TARBALL=$(notdir $(UPSTREAM))
 
 HAPROXY_BIN=build/haproxy

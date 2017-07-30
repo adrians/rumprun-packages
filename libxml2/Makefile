@@ -1,5 +1,5 @@
 include ../Makefile.inc
-UPSTREAM=ftp://xmlsoft.org/libxml2/libxml2-2.9.3.tar.gz
+UPSTREAM=ftp://xmlsoft.org/libxml2/libxml2-2.9.4.tar.gz
 TARBALL=$(notdir $(UPSTREAM))
 
 all: bin/libxml2

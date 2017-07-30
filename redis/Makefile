@@ -1,5 +1,5 @@
 include ../Makefile.inc
-UPSTREAM=http://download.redis.io/releases/redis-3.0.6.tar.gz
+UPSTREAM=http://download.redis.io/releases/redis-3.0.7.tar.gz
 TARBALL=$(notdir $(UPSTREAM))
 PERSISTENCE_SIZE=2048
 CC=$(RUMPRUN_CC)

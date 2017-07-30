@@ -1,5 +1,5 @@
 include ../Makefile.inc
-UPSTREAM=https://www.hiawatha-webserver.org/files/hiawatha-10.0.tar.gz
+UPSTREAM=https://www.hiawatha-webserver.org/files/hiawatha-10.6.tar.gz
 
 all: bin/hiawatha images
 
